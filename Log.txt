@@ -1,7 +1,0 @@
-Test
-Wednesday, May 4, 2022->App loaded from settings
-Wednesday, May 4, 2022->QRCode generated
-Wednesday, May 4, 2022->Match Data Cleared
-Wednesday, May 4, 2022->QRCode generated
-Wednesday, May 4, 2022->Match Data Cleared
-Wednesday, May 4, 2022->App loaded from settings
