@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <settings>
 	<AppName>ScoutEye</AppName>
-	<AppVersion>v1.9</AppVersion>
+	<AppVersion>v1.9.5</AppVersion>
 	<DefaultComboValue>Empty</DefaultComboValue> <!--Currently doesn't do anything, honestly probably never will-->
 	<Auto0>High goal</Auto0>
 	<Auto0Items>high, low</Auto0Items>
