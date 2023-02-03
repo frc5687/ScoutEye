@@ -1,31 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
 <settings>
-	<AppName>ScoutEye</AppName>
-	<AppVersion>v1.9</AppVersion>
-	<DefaultComboValue>Empty</DefaultComboValue> <!--Currently doesn't do anything, honestly probably never will-->
-	<Auto0>High goal</Auto0>
-	<Auto0Items>high, low</Auto0Items>
-	<Auto0Hide>false</Auto0Hide>
-	<Auto1>Low goal</Auto1>
-	<Auto1Items>off tarmac, stayed on tarmac</Auto1Items>
-	<Auto1Hide>false</Auto1Hide>
-	<Auto2></Auto2>
-	<Auto2Items></Auto2Items>
-	<Auto2Hide>true</Auto2Hide>
-	<Auto3></Auto3>
-	<Auto3Items></Auto3Items>
-	<Auto3Hide>true</Auto3Hide>
-	<!--Teleop-->
-	<Teleop0>High goal</Teleop0>
-	<Teleop0Items>NumFill</Teleop0Items>
-	<Teleop0Hide>false</Teleop0Hide>
-	<Teleop1>Low goal</Teleop1>
-	<Teleop1Items>NumFill</Teleop1Items>
-	<Teleop1Hide>false</Teleop1Hide>
-	<Teleop2>Climb</Teleop2>
-	<Teleop2Items>Low, Mid, High, Highest</Teleop2Items>
-	<Teleop2Hide>false</Teleop2Hide>
-	<Teleop3></Teleop3>
-	<Teleop3Items></Teleop3Items>
-	<Teleop3Hide>true</Teleop3Hide>
+  <AppName>ScoutEye</AppName>
+  <AppVersion>v1.9</AppVersion>
+  <DefaultComboValue>Empty</DefaultComboValue>
+  <Auto0>
+  </Auto0>
+  <Auto0Items>
+  </Auto0Items>
+  <Auto0Hide>true</Auto0Hide>
+  <Auto1>
+  </Auto1>
+  <Auto1Items>
+  </Auto1Items>
+  <Auto1Hide>true</Auto1Hide>
+  <Auto2>
+  </Auto2>
+  <Auto2Items>
+  </Auto2Items>
+  <Auto2Hide>true</Auto2Hide>
+  <Auto3>
+  </Auto3>
+  <Auto3Items>
+  </Auto3Items>
+  <Auto3Hide>true</Auto3Hide>
+  <Teleop0>
+  </Teleop0>
+  <Teleop0Items>
+  </Teleop0Items>
+  <Teleop0Hide>true</Teleop0Hide>
+  <Teleop1>
+  </Teleop1>
+  <Teleop1Items>
+  </Teleop1Items>
+  <Teleop1Hide>true</Teleop1Hide>
+  <Teleop2>
+  </Teleop2>
+  <Teleop2Items>
+  </Teleop2Items>
+  <Teleop2Hide>true</Teleop2Hide>
+  <Teleop3>
+  </Teleop3>
+  <Teleop3Items>
+  </Teleop3Items>
+  <Teleop3Hide>true</Teleop3Hide>
 </settings>
