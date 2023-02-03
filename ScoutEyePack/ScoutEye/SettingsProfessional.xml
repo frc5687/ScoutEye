@@ -1,45 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <settings>
-  <AppName>ScoutEye</AppName>
-  <AppVersion>v1.9</AppVersion>
-  <DefaultComboValue>Empty</DefaultComboValue>
-  <Auto0>
-  </Auto0>
-  <Auto0Items>
-  </Auto0Items>
-  <Auto0Hide>true</Auto0Hide>
-  <Auto1>
-  </Auto1>
-  <Auto1Items>
-  </Auto1Items>
-  <Auto1Hide>true</Auto1Hide>
-  <Auto2>
-  </Auto2>
-  <Auto2Items>
-  </Auto2Items>
-  <Auto2Hide>true</Auto2Hide>
-  <Auto3>
-  </Auto3>
-  <Auto3Items>
-  </Auto3Items>
-  <Auto3Hide>true</Auto3Hide>
-  <Teleop0>
-  </Teleop0>
-  <Teleop0Items>
-  </Teleop0Items>
-  <Teleop0Hide>true</Teleop0Hide>
-  <Teleop1>
-  </Teleop1>
-  <Teleop1Items>
-  </Teleop1Items>
-  <Teleop1Hide>true</Teleop1Hide>
-  <Teleop2>
-  </Teleop2>
-  <Teleop2Items>
-  </Teleop2Items>
-  <Teleop2Hide>true</Teleop2Hide>
-  <Teleop3>
-  </Teleop3>
-  <Teleop3Items>
-  </Teleop3Items>
-  <Teleop3Hide>true</Teleop3Hide>
+	<!--Basic app config-->
+	<AppName>ScoutEye</AppName>
+	<AppVersion>v1.9</AppVersion>
+	<DefaultComboValue>Empty</DefaultComboValue> <!--Currently dosen't do anything-->
+	
+	<!--Config for first auto tracker-->
+	<Auto0></Auto0>
+	<Auto0Items></Auto0Items>
+	<Auto0Hide>false</Auto0Hide>
+	
+	<!--Config for second auto tracker-->
+	<Auto1>  </Auto1>
+	<Auto1Items></Auto1Items>
+	<Auto1Hide>false</Auto1Hide>
+	
+	<!--Config for third auto tracker-->
+	<Auto2></Auto2>
+	<Auto2Items></Auto2Items>
+	<Auto2Hide>false</Auto2Hide>
+	
+	<!--Config for fourth auto tracker-->
+	<Auto3></Auto3>
+	<Auto3Items></Auto3Items>
+	<Auto3Hide>false</Auto3Hide>
+	
+	<!--Teleop-->
+	
+	<!--Config for first teleop tracker-->
+	<Teleop0></Teleop0>
+	<Teleop0Items></Teleop0Items>
+	<Teleop0Hide>false</Teleop0Hide>
+	
+	<!--Config for second teleop tracker-->
+	<Teleop1></Teleop1>
+	<Teleop1Items></Teleop1Items>
+	<Teleop1Hide>false</Teleop1Hide>
+	
+	<!--Config for third teleop tracker-->
+	<Teleop2></Teleop2>
+	<Teleop2Items></Teleop2Items>
+	<Teleop2Hide>false</Teleop2Hide>
+
+	<!--Config for fourth teleop tracker-->
+	<Teleop3></Teleop3>
+	<Teleop3Items></Teleop3Items>
+	<Teleop3Hide>false</Teleop3Hide>
 </settings>
