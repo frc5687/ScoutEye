@@ -1,0 +1,31 @@
+<settings>
+  <AppName>ScoutEye</AppName>
+  <AppVersion>v1.9</AppVersion>
+  <DefaultComboValue>Empty</DefaultComboValue>
+  <Auto0>Cones</Auto0>
+  <Auto0Items>NumFill</Auto0Items>
+  <Auto0Hide>false</Auto0Hide>
+  <Auto1>Cubes</Auto1>
+  <Auto1Items>NumFill</Auto1Items>
+  <Auto1Hide>false</Auto1Hide>
+  <Auto2>Balanced</Auto2>
+  <Auto2Items>true, false</Auto2Items>
+  <Auto2Hide>false</Auto2Hide>
+  <Auto3>
+  </Auto3>
+  <Auto3Items>
+  </Auto3Items>
+  <Auto3Hide>true</Auto3Hide>
+  <Teleop0>Cones</Teleop0>
+  <Teleop0Items>NumFill</Teleop0Items>
+  <Teleop0Hide>false</Teleop0Hide>
+  <Teleop1>Cubes</Teleop1>
+  <Teleop1Items>NumFill</Teleop1Items>
+  <Teleop1Hide>false</Teleop1Hide>
+  <Teleop2>Balanced</Teleop2>
+  <Teleop2Items>true, false</Teleop2Items>
+  <Teleop2Hide>false</Teleop2Hide>
+  <Teleop3>Defense</Teleop3>
+  <Teleop3Items>Terrible, Bad, Moderate, Good Great</Teleop3Items>
+  <Teleop3Hide>false</Teleop3Hide>
+</settings>
