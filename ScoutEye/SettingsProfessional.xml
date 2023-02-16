@@ -26,6 +26,6 @@
   <Teleop2Items>true, false</Teleop2Items>
   <Teleop2Hide>false</Teleop2Hide>
   <Teleop3>Defense</Teleop3>
-  <Teleop3Items>Terrible, Bad, Moderate, Good Great</Teleop3Items>
+  <Teleop3Items>Terrible, Bad, Moderate, Good, Great</Teleop3Items>
   <Teleop3Hide>false</Teleop3Hide>
 </settings>
