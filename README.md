@@ -5,7 +5,7 @@ For more information please head to our [website](http://scout-eye.com/)
 
 # Windows
 
-The windows release can be found by navagiting to our releases page.
+The windows release can be found by navagiting to our [releases page](https://github.com/frc5687/ScoutEye/releases).
 
 # Universal
 
