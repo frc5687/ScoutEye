@@ -9,4 +9,4 @@ The windows release can be found by navagiting to our [releases page](https://gi
 
 # Universal
 
-The universal version can be found by navigating to our sister repo.
+The universal version can be found by navigating to our [sister repo](https://github.com/frc5687/ScoutEye-universal).
