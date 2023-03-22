@@ -19,3 +19,17 @@ Vist our [website](http://scout-eye.com/)
  
  ScoutEye is planning on offering publix access to our Azure Database
  *More details soon*
+ 
+ 
+ 
+ 
+ 
+ 
+ # ServerEye
+ A simple interface to allow users to generate reports on data.
+ 
+ Designed to work in Windows 10 Dot Net 4.8+
+ 
+ *In order for a secure connection ServerEye uses ODBC. Thus ODBC drivers will need to installed please see documentation for details*
+ 
+ Support for other operating systems is not planned. 
