@@ -1,0 +1,54 @@
+<settings>
+  <AppName>ScoutEyes</AppName>
+  <AppVersion>v3.0</AppVersion>
+  <DefaultComboValue>0</DefaultComboValue>
+  <ClickCounterLabel>Click Count</ClickCounterLabel>
+
+  <Auto0>Cones</Auto0>
+  <Auto0Items>NumFill</Auto0Items>
+  <Auto0Hide>false</Auto0Hide>
+
+  <Auto1>Cubes</Auto1>
+  <Auto1Items>NumFill</Auto1Items>
+  <Auto1Hide>false</Auto1Hide>
+
+  <Auto2>Balanced</Auto2>
+  <Auto2Items>0, true, false</Auto2Items>
+  <Auto2Hide>false</Auto2Hide>
+
+  <Auto3>Placment</Auto3>
+  <Auto3Items>0, Low, Mid, High</Auto3Items>
+  <Auto3Hide>false</Auto3Hide>
+
+  <Auto4>Left community</Auto4>
+  <Auto4Items>0, True, False</Auto4Items>
+  <Auto4Hide>false</Auto4Hide>
+
+  <Auto5>Hold</Auto5>
+  <Auto5Items>NumFill</Auto5Items>
+  <Auto5Hide>true</Auto5Hide>
+
+  <Teleop0>Cones</Teleop0>
+  <Teleop0Items>NumFill</Teleop0Items>
+  <Teleop0Hide>false</Teleop0Hide>
+
+  <Teleop1>Cubes</Teleop1>
+  <Teleop1Items>NumFill</Teleop1Items>
+  <Teleop1Hide>false</Teleop1Hide>
+
+  <Teleop2>Balanced</Teleop2>
+  <Teleop2Items>0, true, false</Teleop2Items>
+  <Teleop2Hide>false</Teleop2Hide>
+  
+  <Teleop3>Placment</Teleop3>
+  <Teleop3Items>0, Low, Mid, High</Teleop3Items>
+  <Teleop3Hide>false</Teleop3Hide>
+
+  <Teleop4>Intake Location</Teleop4>
+  <Teleop4Items>0, Ground, Human</Teleop4Items>
+  <Teleop4Hide>false</Teleop4Hide>
+
+  <Teleop5>Speed</Teleop5>
+  <Teleop5Items>0, Slow, Medium, Fast</Teleop5Items>
+  <Teleop5Hide>true</Teleop5Hide>
+</settings>
