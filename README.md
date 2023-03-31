@@ -15,16 +15,6 @@ Vist our [website](http://scout-eye.com/)
  - Android
  - Linux
  
- # Public scouting database
- 
- ScoutEye is planning on offering publix access to our Azure Database
- *More details soon*
- 
- 
- 
- 
- 
- 
  # ServerEye
  A simple interface to allow users to generate reports on data.
  
