@@ -1,10 +1,10 @@
 <settings>
   <AppName>ScoutEyes</AppName>
-  <AppVersion>v3.0</AppVersion>
+  <AppVersion>v4.0Ex</AppVersion>
   <DefaultComboValue>0</DefaultComboValue>
   <ClickCounterLabel>Click Count</ClickCounterLabel>
 
-  <Auto0>ag</Auto0>
+  <Auto0>Cones</Auto0>
   <Auto0Items>NumFill</Auto0Items>
   <Auto0Hide>false</Auto0Hide>
 
