@@ -13,7 +13,6 @@ Vist our [website](http://scout-eye.com/)
  
  - Windows
  - Android
- - Linux
  
  # ServerEye
  A simple interface to allow users to generate reports on data.
