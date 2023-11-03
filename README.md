@@ -1,11 +1,9 @@
 # ScoutEye
 A simple, easy and customizable to use solution for FRC scouting
 
-Vist our [website](http://scout-eye.com/)
-
 # Why ScoutEye?
 
- For years team 5687 had been struggling to find a scouting solution. In 2022 we decided to do something about it, we after talking with former and current scouts, scouting captains, and looking at other scouting apps. We designed a solution attempted to resolve the issues. It became quickly apparent that the app needed to be both customizable, simple to use, and run on both laptops and tablets. Thus, ScoutEye was born after user testing it was finally ready to see a competition, and the rest is history. We are pleased to share the public release of ScoutEye with you. 
+  For years team 5687 had been struggling to find a scouting solution. In 2022 we decided to do something about it, we after talking with former and current scouts, scouting captains, and looking at other scouting apps. We designed a solution attempted to resolve the issues. It became quickly apparent that the app needed to be both customizable, simple to use, and run on both laptops and tablets. Thus, ScoutEye was born after user testing it was finally ready to see a competition, and the rest is history. We are pleased to share the public release of ScoutEye with you. 
  
  # Cross-platform support
  
@@ -17,8 +15,4 @@ Vist our [website](http://scout-eye.com/)
  # ServerEye
  A simple interface to allow users to generate reports on data.
  
- Designed to work in Windows 10 Dot Net 4.8+
- 
- *In order for a secure connection ServerEye uses ODBC. Thus ODBC drivers will need to installed please see documentation for details*
- 
- Support for other operating systems is not planned. 
+ Designed to work in Windows 10 and Windows 11 .Net 4.8+
