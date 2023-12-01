@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "AppInfo": {
+      "AppName": "ScoutEye",
+      "AppVersion": "v4.0Ex",
+      "DefaultComboValue": 0,
+      "ClickCounterLabel": "Click Count"
+    },
+    "Auto": {
+      "Auto0": "Cones",
+      "Auto0Items": "NumFill",
+      "Auto0Hide": false,
+      "Auto1": "Cubes",
+      "Auto1Items": "NumFill",
+      "Auto1Hide": false,
+      "Auto2": "Balanced",
+      "Auto2Items": "0, true, false",
+      "Auto2Hide": false,
+      "Auto3": "Placment",
+      "Auto3Items": "0, Low, Mid, High",
+      "Auto3Hide": false,
+      "Auto4": "Left com",
+      "Auto4Items": "0, True, False",
+      "Auto4Hide": false,
+      "Auto5": "Hold",
+      "Auto5Items": "NumFill",
+      "Auto5Hide": true
+    },
+    "Teleop": {
+      "Teleop0": "Cones",
+      "Teleop0Items": "NumFill",
+      "Teleop0Hide": false,
+      "Teleop1": "Cubes",
+      "Teleop1Items": "NumFill",
+      "Teleop1Hide": false,
+      "Teleop2": "Balanced",
+      "Teleop2Items": "0, true, false",
+      "Teleop2Hide": false,
+      "Teleop3": "Placment",
+      "Teleop3Items": "0, Low, Mid, High",
+      "Teleop3Hide": false,
+      "Teleop4": "Intake Loc",
+      "Teleop4Items": "0, Ground, Human",
+      "Teleop4Hide": false,
+      "Teleop5": "Speed",
+      "Teleop5Items": "0, Slow, Medium, Fast",
+      "Teleop5Hide": true
+    }
+  }
+}
