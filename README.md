@@ -11,8 +11,3 @@ A simple, easy and customizable to use solution for FRC scouting
  
  - Windows
  - Android
- 
- # ServerEye
- A simple interface to allow users to generate reports on data.
- 
- Designed to work in Windows 10 and Windows 11 .Net 4.8+
