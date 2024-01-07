@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+   <AppName>ScoutEye</AppName>
+   <GameName>Crescendo</GameName>
+   <AppVersion>v3.0EX</AppVersion>
+   <DefaultComboValue>0</DefaultComboValue>
+   <ClickCounterLabel>Click Count</ClickCounterLabel>
+   <Auto0>Mobility</Auto0>
+   <Auto0Items>True,False</Auto0Items>
+   <Auto0Hide>false</Auto0Hide>
+   <Auto1>Notes in Amp</Auto1>
+   <Auto1Items>NumFill</Auto1Items>
+   <Auto1Hide>false</Auto1Hide>
+   <Auto2>Notes in Spk</Auto2>
+   <Auto2Items>true, false</Auto2Items>
+   <Auto2Hide>false</Auto2Hide>
+   <Auto3 />
+   <Auto3Items />
+   <Auto3Hide>true</Auto3Hide>
+   <Auto4>Left com</Auto4>
+   <Auto4Items>True, False</Auto4Items>
+   <Auto4Hide>true</Auto4Hide>
+   <Auto5>Hold</Auto5>
+   <Auto5Items>NumFill</Auto5Items>
+   <Auto5Hide>true</Auto5Hide>
+   <Teleop0>Notes in Amp</Teleop0>
+   <Teleop0Items>NumFill</Teleop0Items>
+   <Teleop0Hide>false</Teleop0Hide>
+   <Teleop1>Notes in Spk</Teleop1>
+   <Teleop1Items>NumFill</Teleop1Items>
+   <Teleop1Hide>false</Teleop1Hide>
+   <Teleop2>Notes in Amp and Spk</Teleop2>
+   <Teleop2Items>True,False</Teleop2Items>
+   <Teleop2Hide>false</Teleop2Hide>
+   <Teleop3>Notes in Trap</Teleop3>
+   <Teleop3Items>Yes,No</Teleop3Items>
+   <Teleop3Hide>false</Teleop3Hide>
+   <Teleop4>Spotlit</Teleop4>
+   <Teleop4Items>Yes,No</Teleop4Items>
+   <Teleop4Hide>false</Teleop4Hide>
+   <Teleop5>Climb</Teleop5>
+   <Teleop5Items>Slow, Medium, Fast</Teleop5Items>
+   <Teleop5Hide>true</Teleop5Hide>
+</settings>
