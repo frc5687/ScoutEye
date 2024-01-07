@@ -1,15 +1,15 @@
 # This is checklist for a Scout Lead to follow during a competition
 
-It is the lead scouts responsibility all scouts are doing their job and that the data is being collected and entered correctly. It is also the lead scouts responsibility to insure that there is a know schedule that defines what match and teams scouts are in charge of scouting for the day and that the scouts are aware of it.
+It is the lead scouts responsibility all scouts are doing their job and that the data is being collected and entered correctly. It is also the lead scouts responsibility to Ensure that there is a know schedule that defines what match and teams scouts are in charge of scouting for the day and that the scouts are aware of it.
 
 ## Before the first match of the day
-- [ ] Insure that all scouts are present and ready to scout
-- [ ] Insure that all scouts have a tablet, that the tablet is charged, and that the tablet is running the correct version of ScoutEyeEX
-- [ ] Insure **if possible** that the scouting computer is plugged in and charging
-- [ ] Insure that LibreOffice Calc is running
-- [ ] Insure that QR code scanner is switched on (switch is on the back of the scanner right below the scanner window at the front) and that the scanner is connected to the computer via USB-C connection
-- [ ] Insure that column A row 1 is selected
-- [ ] Insure that column headers have been added to the spreadsheet (see below)
+- [ ] Ensure that all scouts are present and ready to scout
+- [ ] Ensure that all scouts have a tablet, that the tablet is charged, and that the tablet is running the correct version of ScoutEyeEX
+- [ ] Ensure **if possible** that the scouting computer is plugged in and charging
+- [ ] Ensure that LibreOffice Calc is running
+- [ ] Ensure that QR code scanner is switched on (switch is on the back of the scanner right below the scanner window at the front) and that the scanner is connected to the computer via USB-C connection
+- [ ] Ensure that column A row 1 is selected
+- [ ] Ensure that column headers have been added to the spreadsheet (see below)
 
 
 
@@ -32,7 +32,7 @@ It is the lead scouts responsibility all scouts are doing their job and that the
 
 
 ### Spreadsheet column headers
-Before scouting begins the column headers must be added to the spreadsheet. The column headers can be added by taping the **Header QR** button on the main screen of the app at which insure that the cursor is in the correct cell (A1) and then scan the QR code on the QR code scanner. The column headers will resemble the following:
+Before scouting begins the column headers must be added to the spreadsheet. The column headers can be added by taping the **Header QR** button on the main screen of the app at which Ensure that the cursor is in the correct cell (A1) and then scan the QR code on the QR code scanner. The column headers will resemble the following:
 
 ```
 ScoutName   |   EX   |   matchNumber   |   allianceIsBlue   |   teamNumber   |   auto1   |   auto2   |   auto3   |   auto4   |   auto5   |   auto6   |   teleop1   |   teleop2   |   teleop3   |   teleop4   |   teleop5   |   teleop6   |   robotDied   |   fieldFault   |   Timer   |   ClickCount   |   robotSpeed   |   givesDefense   |   takesDefense   |   vNum/vID
