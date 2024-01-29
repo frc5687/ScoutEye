@@ -1,4 +1,4 @@
-# ScoutEye
+# ScoutEyeEX
 A simple, easy and customizable to use solution for FRC scouting
 
 # Why ScoutEye?
@@ -7,7 +7,11 @@ A simple, easy and customizable to use solution for FRC scouting
  
  # Cross-platform support
  
- ScoutEye is currently known to run on these platforms
+ ScoutEyeEX is currently known to run on these platforms
  
  - Windows
  - Android
+
+# ScoutEyeEX Source Code
+
+https://github.com/KilroyWasHere-cs-j/ScoutEyeEX
