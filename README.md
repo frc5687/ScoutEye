@@ -12,6 +12,9 @@ A simple, easy and customizable to use solution for FRC scouting
  - Windows
  - Android
 
+ - Mac
+    (If you want ScoutEyeEX for Mac or anyother system please contact the developer at gmtower1@gmail.com)
+
 # ScoutEyeEX Source Code
 
 https://github.com/KilroyWasHere-cs-j/ScoutEyeEX
